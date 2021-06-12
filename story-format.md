@@ -16,7 +16,7 @@ After that, you can build out folders and subfolders and files for each part of 
 A story file will look something like this
 
 {% code title="intro.md" %}
-```text
+```md
 Name: Intro
 Links: 
   - id: closet/1
