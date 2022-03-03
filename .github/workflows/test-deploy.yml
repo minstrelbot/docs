@@ -1,9 +1,10 @@
 name: Test deployment
 
 on:
+  repository_dispatch:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   test-deploy:
