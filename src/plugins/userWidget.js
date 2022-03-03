@@ -13,7 +13,7 @@ function userWidgetInlinePlugin(options) {
     markdownAST.children.splice(0, 0, {
       type: "import",
       value:
-        "import UserWidgetInline from '@site/src/components/UserWidgetInline';",
+        "import UserWidgetInline from '@site/src/components/userWidgetInline';",
     });
 
     const toLoad = [];
