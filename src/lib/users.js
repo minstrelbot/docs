@@ -45,8 +45,6 @@ async function fetchUserByIdentifier(identifier) {
             userId = identifier.substring(8)
         }
 
-        console.log(discordToken, process.env)
-
         if (discordToken) {
             try {
                 const discordUser = await discordRest.get(Routes.user(userId))

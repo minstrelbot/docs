@@ -12,7 +12,7 @@ const config = {
   tagline: "You choose your adventure.",
   url: "https://minstrelbot.theshadow.xyz",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "minstrelbot", // Usually your GitHub org/user name.
