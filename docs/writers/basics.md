@@ -25,7 +25,7 @@ After that, you can build out folders and subfolders and files for each part of 
 ## File Structure
 
 Each file follows the same basic format:
-```
+```yml
 ---
 key: value
 key2: value2
