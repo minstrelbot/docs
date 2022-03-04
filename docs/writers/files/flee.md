@@ -1,6 +1,6 @@
 # flee.md
 
-See [Fleeing](../fleeing.md) for more information on what fleeing is.
+See [Fleeing](../../players/fleeing) for more information on what fleeing is.
 After the flee section is completed, the user is sent to the [end.md](end.md) section.
 
 ## Metadata
@@ -12,4 +12,4 @@ After the flee section is completed, the user is sent to the [end.md](end.md) se
 
 ## Content
 The content of this file is the section played when the player selects the Flee option.
-See [Fleeing](../fleeing.md) for more information.
+See [Fleeing](../../players/fleeing) for more information.
